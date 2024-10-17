@@ -36,6 +36,14 @@ public class D {
     }
 
     public void MD3() {
+<<<<<<< HEAD
     	System.out.println("Método MD3");
+=======
+        System.out.println("Método MD3");
+>>>>>>> NewFeatures_Joao_NewOP
+    }
+    
+    public void MD4() {
+	System.out.println("Método MD4");
     }
 }
